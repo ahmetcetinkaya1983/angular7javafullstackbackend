@@ -1,4 +1,4 @@
-package com.example.demo.todo;
+package com.example.rest.webservices.restfulwebservices.todo;
 
 import java.net.URI;
 import java.util.List;

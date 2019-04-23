@@ -1,4 +1,4 @@
-package com.example.demo.helloworld;
+package com.example.rest.webservices.restfulwebservices.helloworld;
 
 public class HelloWorldBean {
 	

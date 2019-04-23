@@ -1,4 +1,4 @@
-package com.example.demo.helloworld;
+package com.example.rest.webservices.restfulwebservices.helloworld;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

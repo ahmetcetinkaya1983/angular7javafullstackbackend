@@ -1,4 +1,4 @@
-package com.example.demo.todo;
+package com.example.rest.webservices.restfulwebservices.todo;
 
 import java.util.Date;
 
