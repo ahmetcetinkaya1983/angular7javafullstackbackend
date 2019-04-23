@@ -30,7 +30,9 @@ public class TodoHardcodedService {
 			todos.add(todo);
 		} else {
 			deleteById(todo.getId());
+			todos.add(todo);
 		}
+
 		return todo;
 	}
 	
